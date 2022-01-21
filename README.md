@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Henry-Santa
+- 👀 I’m interested in doing things faster
+- 🌱 I’m currently learning Python, JS, TS, and some C Sharp
+- 💞️ I’m looking to collaborate on anything cool!
+- 📫 How to reach me (None currently)
