@@ -13,3 +13,5 @@
 - BazStas (maybe)
   - A way to see current bazaar prices
   - Maybe I will add widgets instead of long bars of data
+- McJs
+  - An entire Minecraft client written in typescript using Electron for the gui.
